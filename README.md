@@ -44,6 +44,7 @@ This retrospective cohort study analyzed data from patients who underwent primar
 ![cureus-0017-00000094155-i02 (1)](https://github.com/user-attachments/assets/da9b660c-6403-4823-9f4f-76ff1ef09fa2)
 
 
+![cureus-0017-00000094155-i01](https://github.com/user-attachments/assets/1d219606-da44-409e-b305-5d2ea59fd1ea)
 
 
 
