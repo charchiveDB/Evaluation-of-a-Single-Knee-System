@@ -41,6 +41,7 @@ This retrospective cohort study analyzed data from patients who underwent primar
 * Flexion range of motion was similar between groups, reaching approximately 120 degrees.
 * The extension range of motion was also comparable, near zero degrees.
 ![cureus-0017-00000094155-i03](https://github.com/user-attachments/assets/141895f5-9ad1-4455-bbc8-882692e3a4c8)
+![cureus-0017-00000094155-i02 (1)](https://github.com/user-attachments/assets/da9b660c-6403-4823-9f4f-76ff1ef09fa2)
 
 
 
