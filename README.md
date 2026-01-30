@@ -40,9 +40,8 @@ This retrospective cohort study analyzed data from patients who underwent primar
 * The 95% confidence interval in NRS pain scores was (-0.51, 0.19), indicating no statistically significant difference in scores.
 * Flexion range of motion was similar between groups, reaching approximately 120 degrees.
 * The extension range of motion was also comparable, near zero degrees.
+cureus-0017-00000094155-i02 (1).jpg
 
-<img width="450" height="254" alt="Screenshot 2025-12-14 at 7 35 58 PM" src=(https://github.com/charchiveDB/Evaluation-of-a-Single-Knee-System/blob/1ff3e2f8540e2b56f52a4f6e97697ea2b1b72a7f/cureus-0017-00000094155-i02%20(1).jpg
-) />
 
 
 ---
