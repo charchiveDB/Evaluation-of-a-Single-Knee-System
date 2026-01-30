@@ -41,8 +41,8 @@ This retrospective cohort study analyzed data from patients who underwent primar
 * Flexion range of motion was similar between groups, reaching approximately 120 degrees.
 * The extension range of motion was also comparable, near zero degrees.
 
-
-https://github.com/charchiveDB/Evaluation-of-a-Single-Knee-System/blob/1ff3e2f8540e2b56f52a4f6e97697ea2b1b72a7f/cureus-0017-00000094155-i02%20(1).jpg
+<img width="450" height="254" alt="Screenshot 2025-12-14 at 7 35 58 PM" src=["https://github.com/user-attachments/assets/2e59604d-d22f-4fcf-8710-a09377406b03"](https://github.com/charchiveDB/Evaluation-of-a-Single-Knee-System/blob/1ff3e2f8540e2b56f52a4f6e97697ea2b1b72a7f/cureus-0017-00000094155-i02%20(1).jpg
+) />
 
 ---
 
