@@ -58,4 +58,6 @@ This retrospective cohort study analyzed data from patients who underwent primar
 * What are some of the limitations of your model? : While descriptive analysis showed some differences in other outcomes like revision and manipulation under anesthesia, further research with larger, randomized controlled trials is needed to confirm these findings and assess long-term functional outcomes and patient satisfaction.
 
 
+
+FULL PAPER: https://pubmed.ncbi.nlm.nih.gov/41209898/
 ---
