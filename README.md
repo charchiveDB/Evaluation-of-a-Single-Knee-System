@@ -42,7 +42,7 @@ This retrospective cohort study analyzed data from patients who underwent primar
 * The extension range of motion was also comparable, near zero degrees.
 
 
-
+https://github.com/charchiveDB/Evaluation-of-a-Single-Knee-System/blob/1ff3e2f8540e2b56f52a4f6e97697ea2b1b72a7f/cureus-0017-00000094155-i02%20(1).jpg
 
 ---
 
